@@ -1,12 +1,6 @@
 # cs231n_assignment
-18/04/07:
-
-update NetworkVisualization-Pytorch.ipynb
-
-18/03/31:
+18/04/10:
 
 my implementation of cs231n(2017) assignments
 
-assignment3 is not completed yet: I didn't do tensorflow part
-
-besides, NetworkVisualization and StyleTransfer was finished on another pc, I'll go back to check and update them later.
+everything is finished except for tensorflow part. most likely not going to do it.
